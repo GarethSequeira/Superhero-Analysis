@@ -59,4 +59,4 @@ Visualization of Superhero Charecteristics and Features are drawn based on their
 Observations are written for each Ability based on their respective Visualizations.  
 <br>
 
-*Note: As This is Visualization based [Notebook](https://github.com/GarethSequeira/Credit-Card-Fraud-Analysis/blob/main/CreditCardFraudAnalysis/CreditCardFraudAnalysis.ipynb), Read And Go Through It for Depictions and Better Understanding.*  
+*Note: As This is Visualization based [Notebook](https://github.com/GarethSequeira/Superhero-Analysis/blob/main/SuperheroAnalysis/SuperheroAnalysis.ipynb), Read And Go Through It for Depictions and Better Understanding.*  
